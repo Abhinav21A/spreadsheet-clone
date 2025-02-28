@@ -1,0 +1,16 @@
+/* Spreadsheet.css */
+.spreadsheet-container {
+    width: 100%;
+    height: 80vh;
+    border: 1px solid #ddd;
+    overflow: auto;
+    padding: 10px;
+  }
+  
+  .cell {
+    border: 1px solid #aaa;
+    padding: 5px;
+    min-width: 100px;
+    text-align: center;
+  }
+  
